@@ -1,16 +1,15 @@
 # findmyanime
 
-A new Flutter project.
+Find My Anime mobile app is image tracer for a screenshot of an anime. With this app you can find the anime name, the episode number, even the timestamp of the scene with the single scene of the anime.
 
-## Getting Started
+This app developed by userid7 using Flutter framework based on trace.moe API by soruly.
 
-This project is a starting point for a Flutter application.
+![alt text](https://github.com/userid7/Find-My-Anime/blob/master/screenshots/0.JPG)
 
-A few resources to get you started if this is your first Flutter project:
+![alt text](https://github.com/userid7/Find-My-Anime/blob/master/screenshots/1.JPG)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![alt text](https://github.com/userid7/Find-My-Anime/blob/master/screenshots/2.JPG)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![alt text](https://github.com/userid7/Find-My-Anime/blob/master/screenshots/3.JPG)
+
+![alt text](https://github.com/userid7/Find-My-Anime/blob/master/screenshots/4.JPG)
